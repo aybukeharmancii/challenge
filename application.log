@@ -1,0 +1,320 @@
+ERROR	2023-08-04 13:59:17,318	1	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-04 13:59:17,321	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-04 13:59:17,656	339	io.github.bonigarcia.wdm.WebDriverManager	[main]	Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+ INFO	2023-08-04 13:59:18,230	913	io.github.bonigarcia.wdm.online.Downloader	[main]	Downloading https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_mac64.zip
+ INFO	2023-08-04 13:59:19,548	2231	io.github.bonigarcia.wdm.online.Downloader	[main]	Extracting binary from compressed file chromedriver_mac64.zip
+ INFO	2023-08-04 13:59:19,699	2382	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-04 14:05:47,008	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-04 14:05:47,011	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-04 14:05:47,453	445	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-04 14:16:28,819	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-04 14:16:28,824	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-04 14:16:29,140	321	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-04 14:23:47,922	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-04 14:23:47,925	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-04 14:23:48,246	324	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-04 14:26:47,125	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-04 14:26:47,129	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-04 14:26:47,473	348	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-04 14:32:04,453	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-04 14:32:04,456	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-04 14:32:04,784	331	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-04 14:37:52,681	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-04 14:37:52,685	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-04 14:37:53,013	332	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-04 15:27:39,008	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-04 15:27:39,012	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-04 15:27:39,441	433	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-04 15:31:26,290	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-04 15:31:26,293	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-04 15:31:26,609	319	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-04 15:34:06,302	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-04 15:34:06,305	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-04 15:34:06,685	383	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-04 15:37:37,900	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-04 15:37:37,903	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-04 15:37:38,261	361	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-05 17:49:57,006	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-05 17:49:57,011	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-05 17:49:57,645	639	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-05 17:52:39,771	1	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-05 17:52:39,776	6	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-05 17:52:40,289	519	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-05 17:57:02,169	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-05 17:57:02,174	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-05 17:57:02,614	445	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-05 17:59:43,806	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-05 17:59:43,812	6	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-05 17:59:44,368	562	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-07 11:06:07,495	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 11:06:07,498	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 11:06:07,832	337	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-07 11:07:55,102	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 11:07:55,106	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 11:07:55,439	337	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-07 14:37:14,546	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 14:37:14,550	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 14:37:14,885	339	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-07 14:39:16,309	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 14:39:16,314	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 14:39:16,632	323	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 14:40:08,182	51873	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-07 17:15:59,519	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 17:15:59,522	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 17:15:59,895	376	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 17:17:06,443	66924	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-07 17:19:05,847	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 17:19:05,850	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 17:19:06,178	331	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 17:20:01,129	55282	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-07 17:24:00,052	1	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 17:24:00,055	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 17:24:00,392	341	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 17:25:05,764	65713	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-07 17:26:36,314	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 17:26:36,318	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 17:26:36,692	378	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 17:27:39,550	63236	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-07 17:29:32,465	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 17:29:32,469	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 17:29:32,795	330	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 17:30:24,845	52380	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-07 17:57:53,735	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 17:57:53,739	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 17:57:54,172	437	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 17:58:51,032	57297	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-07 18:52:53,110	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 18:52:53,112	2	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 18:52:53,326	216	io.github.bonigarcia.wdm.WebDriverManager	[main]	Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+ INFO	2023-08-07 18:52:53,905	795	io.github.bonigarcia.wdm.online.Downloader	[main]	Downloading https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_mac64.zip
+ INFO	2023-08-07 18:52:54,727	1617	io.github.bonigarcia.wdm.online.Downloader	[main]	Extracting binary from compressed file chromedriver_mac64.zip
+ INFO	2023-08-07 18:52:54,843	1733	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-07 18:53:00,822	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 18:53:00,824	2	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 18:53:01,035	213	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 18:53:48,260	47438	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-07 18:56:33,741	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 18:56:33,746	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 18:56:33,965	224	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 18:57:32,156	58415	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-07 19:04:49,347	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 19:04:49,350	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 19:04:49,575	228	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 19:05:34,347	45000	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-07 19:08:23,237	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 19:08:23,240	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 19:08:23,457	220	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ ERROR	2023-08-07 19:08:40,238	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 19:08:40,242	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 19:08:40,462	224	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 19:09:43,674	63436	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-07 19:15:19,747	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 19:15:19,752	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 19:15:19,987	240	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 19:16:31,275	71528	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-07 19:19:22,573	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 19:19:22,578	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 19:19:22,819	246	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 19:20:28,867	66294	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-07 19:22:50,202	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 19:22:50,206	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 19:22:50,426	224	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 19:24:04,434	74232	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-07 19:27:43,805	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 19:27:43,810	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 19:27:44,034	229	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 19:28:42,263	58458	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-07 19:34:12,661	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-07 19:34:12,664	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-07 19:34:12,868	207	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-07 19:35:23,882	71221	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 11:05:54,621	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 11:05:54,626	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 11:05:54,939	318	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 11:07:33,517	98896	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 11:10:19,415	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 11:10:19,420	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 11:10:19,746	331	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 11:11:08,536	49121	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 11:36:17,981	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 11:36:17,986	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 11:36:18,301	320	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 11:37:21,869	63888	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 11:39:13,190	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 11:39:13,194	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 11:39:13,526	336	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 11:40:02,948	49758	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 11:44:38,363	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 11:44:38,367	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 11:44:38,706	343	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 11:45:38,835	60472	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 11:48:13,870	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 11:48:13,873	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 11:48:14,235	365	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 11:49:04,217	50347	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 11:53:46,364	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 11:53:46,367	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 11:53:46,699	335	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 11:54:47,989	61625	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 12:11:07,852	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 12:11:07,855	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 12:11:08,227	375	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 12:12:04,763	56911	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 12:13:09,901	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 12:13:09,904	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 12:13:10,237	336	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 12:14:08,605	58704	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 12:19:29,660	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 12:19:29,663	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 12:19:29,996	336	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 12:20:25,041	55381	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 12:23:03,065	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 12:23:03,068	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 12:23:03,372	307	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 12:24:07,180	64115	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 12:42:46,432	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 12:42:46,436	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 12:42:46,775	343	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 12:43:50,436	64004	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 12:44:48,337	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 12:44:48,340	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 12:44:48,688	351	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 12:45:38,759	50422	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 12:51:09,217	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 12:51:09,222	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 12:51:09,540	323	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 12:52:07,716	58499	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 12:56:18,412	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 12:56:18,414	2	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 12:56:18,725	313	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 12:57:12,394	53982	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 12:58:40,268	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 12:58:40,273	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 12:58:40,604	336	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 12:59:32,662	52394	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 13:01:37,297	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 13:01:37,300	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 13:01:37,654	357	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 13:02:36,082	58785	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 13:06:13,022	1	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 13:06:13,025	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 13:06:13,394	373	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 13:07:13,689	60668	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 13:10:11,553	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 13:10:11,555	2	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 13:10:11,925	372	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 13:11:15,242	63689	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 13:14:43,911	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 13:14:43,915	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 13:14:44,263	352	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 13:15:39,306	55395	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 13:17:36,009	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 13:17:36,014	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 13:17:36,325	316	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 13:18:41,966	65957	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 13:20:19,478	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 13:20:19,482	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 13:20:19,783	305	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 13:21:17,545	58067	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 13:28:21,070	1	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 13:28:21,073	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 13:28:21,389	320	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 13:29:18,702	57633	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 13:33:45,427	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 13:33:45,431	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 13:33:45,740	313	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 13:34:54,061	68634	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 13:40:31,669	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 13:40:31,673	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 13:40:31,980	311	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 13:41:26,096	54427	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 13:46:49,735	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 13:46:49,739	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 13:46:50,056	321	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 13:47:52,541	62806	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 13:53:13,041	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 13:53:13,046	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 13:53:13,375	334	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 13:54:08,798	55757	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 13:57:52,931	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 13:57:52,935	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 13:57:53,270	339	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 13:58:46,082	53151	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 14:03:17,796	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 14:03:17,799	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 14:03:18,123	327	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 14:04:14,911	57115	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 14:08:05,545	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 14:08:05,550	5	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 14:08:05,858	313	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 14:08:57,998	52453	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 14:12:32,256	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 14:12:32,259	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 14:12:32,597	341	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 14:13:33,075	60819	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 15:17:36,690	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 15:17:36,693	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 15:17:37,022	332	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 15:18:47,583	70893	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 15:24:15,829	399139	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 15:24:15,831	399141	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 15:24:16,147	399457	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 15:25:18,119	461429	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 15:27:40,480	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 15:27:40,484	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 15:27:40,850	370	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 15:28:31,739	51259	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 15:35:39,507	479027	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 15:35:39,509	479029	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 15:35:39,831	479351	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 15:36:35,002	534522	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 15:43:29,674	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 15:43:29,678	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 15:43:29,993	319	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 15:44:29,164	59490	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 15:50:29,691	420017	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 15:50:29,692	420018	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 15:50:30,037	420363	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 15:51:22,531	472857	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 15:53:35,871	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 15:53:35,873	2	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 15:53:36,233	362	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 15:54:35,847	59976	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 16:01:41,334	485463	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 16:01:41,335	485464	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 16:01:41,622	485751	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 16:02:47,165	551294	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 16:05:40,996	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 16:05:40,999	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 16:05:41,347	351	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 16:06:39,919	58923	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 16:08:38,403	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 16:08:38,407	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 16:08:38,742	339	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 16:09:37,488	59085	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 16:31:09,001	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 16:31:09,005	4	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 16:31:09,343	342	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 16:32:03,841	54840	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 16:35:46,788	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 16:35:46,791	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 16:35:47,137	349	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 16:36:41,807	55019	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ ERROR	2023-08-08 16:43:00,153	0	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 16:43:00,156	3	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 16:43:00,488	335	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 16:43:52,657	52504	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ INFO	2023-08-08 16:44:43,195	103042	com.test.helper.BrowserHelper	[main]	Wait has been exceeded the expected period.
+ INFO	2023-08-08 16:45:42,726	162573	com.test.step_def.Product_stepdef	[main]	productTitle = Apple M2 çipli 2023 model MacBook Air laptop: 15.3 inç Liquid Retina ekran, 8 GB RAM, 256 GB SSD depolama, arkadan aydınlatmalı klavye, Touch ID. iPhone ve iPad ile uyumlu; Yıldız Işığı
+ INFO	2023-08-08 16:45:56,301	176148	com.test.step_def.Product_stepdef	[main]	productPrice = 42.899
+ INFO	2023-08-08 16:46:35,495	215342	com.test.step_def.Product_stepdef	[main]	ActualProductTitle = Apple M2 çipli 2023 model MacBook Air laptop: 15.3 inç Liquid Retina ekran, 8 GB RAM, 256 GB SSD depolama, arkadan aydınlatmalı klavye,
+ INFO	2023-08-08 16:46:35,908	215755	com.test.step_def.Product_stepdef	[main]	ActualProductPrice = 42.899,00 TL
+ INFO	2023-08-08 16:47:20,604	260451	com.test.step_def.Product_stepdef	[main]	productTitle = Apple 2020 MacBook Air Laptop: Apple M1 Çip, 13 inç Retina Ekran, 8 GB RAM, 256 GB SSD Depolama, Arkadan Aydınlatmalı Klavye, FaceTime HD Kamera, Touch ID. iPhone/iPad ile çalışır; Altın Rengi
+ INFO	2023-08-08 16:47:33,506	273353	com.test.step_def.Product_stepdef	[main]	productPrice = 26.998
+ INFO	2023-08-08 16:48:48,807	348654	com.test.step_def.Product_stepdef	[main]	ActualProductTitle = Apple 2020 MacBook Air Laptop: Apple M1 Çip, 13 inç Retina Ekran, 8 GB RAM, 256 GB SSD Depolama, Arkadan Aydınlatmalı Klavye, FaceTime
+ INFO	2023-08-08 16:48:49,681	349528	com.test.step_def.Product_stepdef	[main]	ActualProductPrice = 26.998,99 TL
+ ERROR	2023-08-08 16:49:26,191	386038	io.github.bonigarcia.wdm.online.HttpClient	[main]	Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+ WARN	2023-08-08 16:49:26,192	386039	io.github.bonigarcia.wdm.versions.VersionDetector	[main]	Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+ INFO	2023-08-08 16:49:26,536	386383	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as /Users/virgosol/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+ INFO	2023-08-08 16:50:29,647	449494	com.test.step_def.login_stepdef	[main]	ExampleAllLogin
+ 
